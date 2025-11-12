@@ -26,13 +26,13 @@ python main.py
 ```
 
 ## Kontributor
-1. Tifli
-2. Imam
-3. Fajar
-4. Ayu
-5. Talista
+1. Achmad Tifli
+2. Imam Arief Rachmat
+3. Moh. Fajar
+4. Nurhayu Fiantika Gafar
+5. Andi Talista Anindya
 6. Muhammad Rifat Kasman
-7. Rayyan
+7. Muhammad Rayyan Izdihar
 
  - akun.txt   : menyimpan akun => username|password
  - task.txt   : menyimpan tugas aktif => id|username|judul|deskripsi|level|deadline|status
